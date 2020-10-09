@@ -1,0 +1,7 @@
+src/
+test/
+out/
+duplicates*
+Project.iml
+package.json
+.idea/
